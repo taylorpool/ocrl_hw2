@@ -1,6 +1,6 @@
 # HW2_S23
 
-**Due Wednesday 3/8 11:59 PM Eastern.**
+**Due Wednesday 3/15 11:59 PM Eastern.**
 
 ## Instructions
 
